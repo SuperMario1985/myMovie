@@ -1,11 +1,4 @@
-/*
-* @Author: huoqishi
-* @Date:   2016-07-30 15:13:51
-* @Last Modified by:   huoqishi
-* @Last Modified time: 2016-07-30 17:12:37
-*/
-
-(function(angular){
+;(function(angular){
   'use strict';
   // 1.创建自定义指令模块
   var app = angular.module('moviecat.auto-active',[]);

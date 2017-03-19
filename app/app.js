@@ -1,4 +1,4 @@
-(function (angular) {
+;(function (angular) {
     "use strict";
 
     // 创建一个模块,所有子模块需要在主模块中引入

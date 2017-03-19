@@ -1,11 +1,4 @@
-/*
-* @Author: huoqishi
-* @Date:   2016-07-30 11:11:11
-* @Last Modified by:   Mr Li
-* @Last Modified time: 2016-08-15 23:02:21
-*/
-
-(function(angular){
+;(function(angular){
   'use strict';
   
   // 1.创建服务模块
